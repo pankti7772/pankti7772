@@ -1,26 +1,134 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Pankti Singh Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Pankti Singh</h1>
+
 <h3 align="center">
-AI/ML Engineer • Generative AI • RAG Systems • Multi-Agent AI • MLOps
+AI/ML Engineer • Generative AI • RAG Systems • Multi-Agent AI • Backend Engineering
 </h3>
 
 <p align="center">
-Building production-ready AI applications with modern LLMs, LangChain, LangGraph, FastAPI, Docker, and PyTorch.
+Building production-ready AI systems powered by LLMs, Retrieval-Augmented Generation (RAG), Multi-Agent Workflows, and MLOps.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 AI Data Annotator & QA Associate @ **SAMAADHAAN**
-- 📈 Former Data Science Intern @ **Pickl.AI (TransOrg Analytics)**
-- 🤖 Passionate about **Generative AI**, **LLMs**, **AI Agents**, and **MLOps**
-- 🧠 Building scalable Retrieval-Augmented Generation (RAG) applications
-- 🌱 Currently exploring advanced agent orchestration and production AI systems
-- 📍 India
+I'm an AI/ML Engineer passionate about building intelligent applications that solve real-world problems.
+
+My interests include:
+
+- 🤖 Generative AI & Large Language Models
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🧠 Multi-Agent AI Systems
+- ⚡ FastAPI & Backend Engineering
+- 🐳 Docker & MLOps
+- 👁️ Computer Vision
+- 📊 Data Analytics & Visualization
+
+Currently working on production-grade AI applications with LangChain, LangGraph, FAISS, PyTorch, FastAPI, and modern LLMs including Llama, Gemini, and OpenAI models.
 
 ---
 
-## 🛠 Tech Stack
+# 💼 Experience
+
+### AI Data Annotator & QA Associate
+**SAMAADHAAN**
+
+- Annotated and validated large-scale multimodal datasets
+- Improved dataset quality for LLM fine-tuning
+- Designed QA validation workflows
+- Collaborated with AI engineering teams
+
+---
+
+### Data Science Intern
+**Pickl.AI (TransOrg Analytics)**
+
+- Built production-grade RAG pipelines
+- Developed FastAPI inference services
+- Automated ML workflows
+- Created executive Power BI dashboards
+
+---
+
+# 🚀 Featured Projects
+
+## ✈️ Air Bharat Udaan
+
+Production-grade Aviation RAG Assistant
+
+**Tech Stack**
+
+- LangChain
+- LangGraph
+- FAISS
+- Flask
+- Groq
+- Llama 3.3
+- Google OAuth
+
+**Highlights**
+
+- Multi-model routing
+- Semantic Retrieval
+- Faithfulness Evaluation
+- Authentication
+- Production Architecture
+
+---
+
+## 🔍 Visual Defect Detector
+
+Industrial Computer Vision pipeline
+
+**Tech**
+
+- PyTorch
+- ResNet
+- MLflow
+- Docker
+- FastAPI
+- GitHub Actions
+
+Features:
+
+- Transfer Learning
+- Experiment Tracking
+- Docker Deployment
+- CI/CD
+
+---
+
+## 🤖 Multi-Agent Debate DAG
+
+A LangGraph-powered reasoning framework featuring
+
+- Proposer Agent
+- Critic Agent
+- Judge Agent
+
+with parallel DAG execution for faster reasoning.
+
+---
+
+## 🎥 TubeQuery
+
+AI-powered YouTube RAG Assistant
+
+Features
+
+- Transcript Ingestion
+- Semantic Search
+- FAISS Indexing
+- Gemini API
+- Streamlit Interface
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
 
@@ -34,17 +142,17 @@ Building production-ready AI applications with modern LLMs, LangChain, LangGraph
 
 ### AI / Machine Learning
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-black?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-blue?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
-![Llama](https://img.shields.io/badge/Llama-000000?style=for-the-badge)
+![Llama](https://img.shields.io/badge/Llama-black?style=for-the-badge)
 
 ---
 
-### Backend & DevOps
+### Backend & MLOps
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
@@ -64,50 +172,7 @@ Building production-ready AI applications with modern LLMs, LangChain, LangGraph
 
 ---
 
-# 🌟 Featured Projects
-
-### ✈️ Air Bharat Udaan
-Production-ready aviation RAG assistant using LangChain, LangGraph, FAISS, Groq-hosted Llama 3.3, Kimi K2, Flask, and Google OAuth.
-
----
-
-### 🔍 Visual Defect Detector
-
-Industrial Computer Vision system built using
-
-- PyTorch
-- ResNet
-- MLflow
-- Docker
-- FastAPI
-- GitHub Actions
-
----
-
-### 🤖 Multi-Agent Debate DAG
-
-A LangGraph-based multi-agent reasoning framework featuring:
-
-- Proposer Agent
-- Critic Agent
-- Judge Agent
-
-with parallel DAG execution.
-
----
-
-### 🎥 TubeQuery
-
-AI-powered YouTube RAG Assistant supporting semantic transcript retrieval using
-
-- LangChain
-- Gemini API
-- FAISS
-- Streamlit
-
----
-
-## 📊 GitHub Analytics
+# 📈 GitHub Statistics
 
 <p align="center">
 
@@ -125,22 +190,22 @@ AI-powered YouTube RAG Assistant supporting semantic transcript retrieval using
 
 ---
 
-## 📚 Currently Learning
+# 🌱 Currently Learning
 
 - Advanced Agentic AI
-- Distributed AI Systems
+- Model Evaluation & Guardrails
 - Production MLOps
 - Kubernetes
-- Model Evaluation & Guardrails
+- Distributed AI Systems
 
 ---
 
-## 📫 Connect With Me
+# 📫 Let's Connect
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:panktisingh16@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/panktisingh16">
@@ -156,7 +221,5 @@ AI-powered YouTube RAG Assistant supporting semantic transcript retrieval using
 ---
 
 <p align="center">
-
-<i>"Building intelligent systems that solve real-world problems."</i>
-
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
