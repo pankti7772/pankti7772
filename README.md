@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner" width="100%">
+  <img src="./assets/banner.png" alt="Banner" width="650%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Pankti Singh</h1>
