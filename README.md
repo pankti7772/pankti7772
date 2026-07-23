@@ -54,20 +54,15 @@ AI Engineer passionate about building production-ready AI systems powered by Lar
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pankti7772&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankti7772&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pankti7772&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pankti7772&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=pankti7772&theme=tokyonight&hide_border=true"/>
-
+  <img width="70%" src="https://streak-stats.demolab.com?user=pankti7772&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
