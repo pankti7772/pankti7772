@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pankti7772/pankti7772/main/assets/banner.png" alt="Banner" width="60%">
+  <img src="https://raw.githubusercontent.com/pankti7772/pankti7772/main/banner.png" width="100%" alt="Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Pankti Singh</h1>
